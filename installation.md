@@ -17,7 +17,7 @@ kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.pas
 # Deploy Demo Application
 You can use the below repository to deploy a demo nginx application
 
-- https://github.com/dmancloud/argocd-tutorial
+- https://github.com/mustak09mbstu/argocd
 
 # Scale Replicaset
 ```bash
